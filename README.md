@@ -6,7 +6,7 @@ Apresentação da live de resolução comentada de questões para o exame **AI-1
 
 ## O que tem na apresentação
 
-📥 [Baixar a apresentação (Azure-AI-103-Simulado-Comentado.pptx)](Azure-AI-103-Simulado-Comentado.pptx)
+📄 [Abrir a apresentação em PDF (Azure-AI-103-Simulado-Comentado.pdf)](Azure-AI-103-Simulado-Comentado.pdf)
 
 - **30 questões de cenário**, distribuídas pelos 5 domínios oficiais na proporção dos pesos da prova.
 - Para cada questão: o enunciado com as informações decisivas em destaque, a resposta correta, o conceito cobrado, uma dica de prova e a análise de **todas** as alternativas.
@@ -27,9 +27,9 @@ Domínios e pesos conforme o *skills measured* vigente (16/04/2026).
 
 ## Como estudar com este material
 
-1. Responda cada questão **antes** de avançar para o slide de resolução.
+1. Responda cada questão **antes** de avançar para a página de resolução.
 2. Leia a análise de todas as alternativas, não só da correta: é ali que estão as diferenças entre serviços que a prova explora.
-3. A cada erro, abra a referência oficial indicada no slide.
+3. A cada erro, abra a referência oficial indicada na página de resolução (os links do PDF são clicáveis).
 
 ## Como os gabaritos foram revisados
 
